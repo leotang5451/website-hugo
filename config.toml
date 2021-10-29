@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-tw'
+title = 'Leo Blog'
+theme = 'ananke'
